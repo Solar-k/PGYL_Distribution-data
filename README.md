@@ -49,3 +49,6 @@ To achieve accurate demand forecasting, we utilized additional data in the prepr
 3. [소비자 물가지수 데이터](https://kosis.kr/statisticsList/statisticsListIndex.do?menuId=M_01_01&vwcd=MT_ZTITLE&parmTabId=M_01_01&statId=1964001&outLink=Y&entrType=#P2_6.2)
 4. [소비자 심리지수 데이터](https://kosis.kr/statisticsList/statisticsListIndex.do?menuId=M_01_01&vwcd=MT_ZTITLE&parmTabId=M_01_01&statId=1964001&outLink=Y&entrType=#P2_6.2)
 5. [기상청데이터를 활용한 유통수요예측 보고서](https://bd.kma.go.kr/kma2020/svc/main.do)
+
+---
+🛠 Tech Stack
