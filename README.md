@@ -48,4 +48,5 @@ To achieve accurate demand forecasting, we utilized additional data in the prepr
 ### 🛠 Tech Stack
 1. Data preprocessing : Missing Value(MICE), Remove outliers(Winsorizing)
 2. Feature Engineering : PCA(Principal Component Analysis), Cluster analysis
-3. Time-Series Modeling: ML(Prophet), DL(LSTM) 
+3. Time-Series Modeling: ML(Prophet), DL(LSTM)
+4. Prototype : Figma(link:)
