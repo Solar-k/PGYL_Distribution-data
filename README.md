@@ -46,7 +46,17 @@ To achieve accurate demand forecasting, we utilized additional data in the prepr
 
 ---
 ### 🛠 Tech Stack
-1. Data preprocessing : Missing Value(MICE), Remove outliers(Winsorizing)
-2. Feature Engineering : PCA(Principal Component Analysis), Cluster analysis
-3. Time-Series Modeling: ML(Prophet), DL(LSTM)
-4. Prototype : Figma(link:)
+#### Data preprocessing 
+- Missing Value(MICE)
+- Remove outliers(Winsorizing)
+
+#### Feature Engineering 
+- PCA(Principal Component Analysis)
+- Cluster analysis
+
+#### Time-Series Modeling
+- ML(Prophet)
+- DL(LSTM)
+
+#### Prototype 
+<a href="https://www.figma.com/file/R9nlma5IcOztNJUKVKLGlT/Finance-Concept?type=design&node-id=0-1&mode=design&t=UTeCrdDBsjm7mGZA-0"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&link=https://www.figma.com/file/R9nlma5IcOztNJUKVKLGlT/Finance-Concept?type=design&node-id=0-1&mode=design&t=UTeCrdDBsjm7mGZA-0"/></a> 
