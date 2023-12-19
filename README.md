@@ -1,29 +1,23 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&fontSize=90)
 # PGYL: [Retail Data Utilization Competition](https://festa.kdlc.or.kr/circulation)
 
-### Analysis Topic
-
----
-
+## 💡 Analysis Topic 
 Enhancing operational efficiency in small retail companies through accurate demand forecasting
 
 
 
-### Analysis Objective
-
----
-
+## 🔍 Analysis Objective
 The current reality of low competitiveness in small retail companies and local stores is attributed to inefficient inventory management and inaccurate demand forecasting. Therefore, there is a need to introduce advanced demand forecasting models to enhance competitiveness.
 
 
 
-## Overall Project Contents
+## 📑 Overall Project Contents
 
 To achieve accurate demand forecasting, we utilized additional data in the preprocessing stage and performed filtering, handling missing values, and merging specifically for the target items to be predicted. In the modeling phase, we employed time series decomposition, multivariate analysis, and clustering to identify key variables, ultimately selecting the Prophet model as our final choice. During model training, we incorporated seasonality, trend, residuals, and trends into the process to enhance accuracy, emphasizing the importance of data preprocessing in improving prediction accuracy.
 
 ---
 
-##  Expected Effects
+## ✨ Expected Effects
 
 #### 1. Optimization of warehouse leasing solution
 
@@ -42,7 +36,7 @@ To achieve accurate demand forecasting, we utilized additional data in the prepr
 
 ---
 
-### Utilized Data and Reference Sources
+### 💾 Utilized Data and Reference Sources
 
 1. [코로나 확진자 수 데이터](https://www.mohw.go.kr/)
 2. [일일 강수량 데이터](https://bd.kma.go.kr/kma2020/svc/main.do)
