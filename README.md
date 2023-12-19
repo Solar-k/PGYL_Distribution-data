@@ -46,3 +46,6 @@ To achieve accurate demand forecasting, we utilized additional data in the prepr
 
 ---
 ### 🛠 Tech Stack
+1. 데이터 전처리 : 결측치제거(MICE방식), 이상치제거(Winsorizing방식)
+2. Feature Engineering : PCA(Principal Component Analysis), 군집분석
+3. 시계열 모델링 : ML(Prophet), DL(LSTM) 
